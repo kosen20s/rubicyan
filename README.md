@@ -1,4 +1,4 @@
-# ***RubiTyan V***
+# ***†RubiTyan V†***
 
 Author: Laminne33569  
 ルビィで書くつもりだったボット  
