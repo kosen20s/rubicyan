@@ -12,4 +12,4 @@ Discordrbがいうことを聞かないのでPythonに移行したやつ
 **とにかく音をVCに流せるようになった**
 
 ## Commands  
-`//rubi start` 再生
+`///rubi start` 再生
